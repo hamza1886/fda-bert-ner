@@ -1,0 +1,8 @@
+bs4
+pandas
+numpy
+matplotlib
+requests
+spacy
+cupy-cuda101
+thinc-gpu-ops
